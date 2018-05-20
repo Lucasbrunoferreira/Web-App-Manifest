@@ -4,7 +4,7 @@
   "theme_color": "#61a400",
   "background_color": "#006abe",
   "display": "standalone",
-  "orientation": "fullscreen",
+  "orientation": "portrait",
   "start_url": "/index.html",
   "icons": [
     {
@@ -47,6 +47,5 @@
       "sizes": "512x512",
       "type": "image/png"
     }
-  ],
-  "splash_pages": null
+  ]
 }
