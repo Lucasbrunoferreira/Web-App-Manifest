@@ -16,6 +16,7 @@ e seus metadados nos concede.
 
 ### Publicações
 * [Blog CedroTech](http://blog.cedrotech.com/aprimorando-visualizacao-de-web-app-em-dispositivos-moveis-atraves-do-webmanifest/)
+* [Medium](https://medium.com/@lucasbrunoferreira/aprimorando-a-visualiza%C3%A7%C3%A3o-de-web-apps-em-dispositivos-m%C3%B3veis-atrav%C3%A9s-do-webmanifest-cbb0432a8377)
 
 
 ### Portfolio
